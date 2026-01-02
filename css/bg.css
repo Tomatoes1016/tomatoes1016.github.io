@@ -1,0 +1,11 @@
+@media screen and (min-width: 300px) and (max-width: 600px) {
+    body {
+        background: url(../img/bg_mobile.png) no-repeat fixed bottom;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    body {
+        background: url(../img/bg_pc.png) no-repeat fixed center;
+    }
+}
