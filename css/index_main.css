@@ -43,17 +43,6 @@ a {
     height: 90%;
 }
 
-.game_library,
-.music_library,
-.find {
-    background-color: #33333345;
-    box-shadow: 3px 3px 45px #0000009f;
-    backdrop-filter: blur(24px);
-    border-radius: 16px;
-    margin: auto;
-    padding: 7.5px;
-}
-
 .find_img {
     display: block;
     width: 90%;

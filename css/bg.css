@@ -9,3 +9,12 @@
         background: url(../img/bg_pc.png) no-repeat fixed center;
     }
 }
+
+.bg {
+    background-color: #33333345;
+    box-shadow: 3px 3px 45px #0000009f;
+    backdrop-filter: blur(24px);
+    border-radius: 16px;
+    margin: auto;
+    padding: 7.5px;
+}
